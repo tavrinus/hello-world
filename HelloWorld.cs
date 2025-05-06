@@ -1,11 +1,9 @@
-#include <iostream>
+using System;
 
-using namespace std;
-
-int main() {
-
-  cout << "Hello world!" << endl;
-	cout << endl;
-  return 0;
-
+class Program
+{
+	static void Main()
+	{
+		Console.WriteLine("Hello, World!");
+	}
 }
